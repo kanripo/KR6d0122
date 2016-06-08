@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:25.120023
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:11
 #+TITLE: 普賢觀經義疏科
 #+PROPERTY: CBETA_ID X35n0649
 #+PROPERTY: ID KR6d0122
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 35, No. 649
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0122_X_001-0180a> 
 #+PROPERTY: JUAN 1
-No.649¶
-
- 觀普賢菩薩行法經義疏科¶
+No. 649¶
+觀普賢菩薩行法經義疏科¶
 ¶
 
   
@@ -764,7 +763,7 @@ No.649¶
   * 初敘昔過(二)¶
   * 二約悟悔(次)¶
   * 二例根(例)¶
-  * 四懺已覩相(三)¶
+  * 四懺巳覩相(三)¶
   
   * 初多寶光照(四)¶
   * 二空聲示佛(次)¶
@@ -838,7 +837,7 @@ No.649¶
   * 二釋(四)¶
   
   * 初空聲告示(佛)¶
-  * 二懺已再禮(次)¶
+  * 二懺巳再禮(次)¶
   * 三光加發願(聖)¶
   * 四佛為說法(慈)¶
   * 二奉教(二)¶
@@ -1068,7 +1067,7 @@ No.649¶
   * 初釋三歸法(次)¶
   * 初釋六重法(六)¶
   * 三釋八重法(善)¶
-  * 三誓已迴向(二)¶
+  * 三誓巳迴向(二)¶
   
   * 初分科(三)¶
   * 二釋(四)¶
