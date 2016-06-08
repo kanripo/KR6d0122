@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:25.120023
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:11
 #+TITLE: 普賢觀經義疏科
 #+PROPERTY: CBETA_ID X35n0649
 #+PROPERTY: ID KR6d0122
